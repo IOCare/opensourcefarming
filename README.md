@@ -1,6 +1,8 @@
 # OpenSourceFarming
 World's First Ever Open Source Farming Repository
 
+![alt text](https://iocare.in/storage/app/media/opensourcefarming1.jpg "Open Source Farming")
+
 ## Main Intentions behind this project are
 * to share, techniques, technologies, hardware & softwares with farming community over entire world.
 * To make farming less pain.
